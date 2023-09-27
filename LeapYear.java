@@ -1,6 +1,6 @@
 /***********************************************************************************************
- * Name				:DaysinaMonth.java
- * Description		:Java program that takes a year from the user and prints whether it is a leap year or not. 
+ * Name				:LeapYear.java
+ * Description			:Java program that takes a year from the user and prints whether it is a leap year or not. 
  * Author			:Adithya P Binu
  * Version			:1.0
  * Date				:27/09/2023
