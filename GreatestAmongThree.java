@@ -1,6 +1,6 @@
 /***********************************************************************************************
  * Name				:PositiveOrNegative.java
- * Description		:Java program to get a number from the user and print whether it is positive or negative 
+ * Description			:Java program that takes three numbers from the user and prints the greatest number.
  * Author			:Adithya P Binu
  * Version			:1.0
  * Date				:27/09/2023
