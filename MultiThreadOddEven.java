@@ -1,7 +1,6 @@
 import java.util.Random;
 public class MultiThreadOddEven {
 	public static void main(String[] args) {
-		for(;;) {
 		NumberManager manager = new NumberManager();
 		NumberGenerator generator = new NumberGenerator(manager);
 		EvenPrinterThread evenprinterthread = new EvenPrinterThread(manager);
@@ -9,7 +8,6 @@ public class MultiThreadOddEven {
 		generator.start();
 		evenprinterthread.start();
 		oddprinterthread.start();
-		}
 	}
 }
 class NumberManager {
